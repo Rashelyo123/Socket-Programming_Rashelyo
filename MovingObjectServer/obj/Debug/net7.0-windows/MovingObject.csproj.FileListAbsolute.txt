@@ -1,0 +1,17 @@
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.csproj.AssemblyReference.cache
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.Properties.Resources.resources
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.csproj.GenerateResource.cache
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\bin\Debug\net7.0-windows\MovingObject.exe
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\bin\Debug\net7.0-windows\MovingObject.dll.config
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\bin\Debug\net7.0-windows\MovingObject.deps.json
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\bin\Debug\net7.0-windows\MovingObject.runtimeconfig.json
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\bin\Debug\net7.0-windows\MovingObject.dll
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\bin\Debug\net7.0-windows\MovingObject.pdb
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.Form1.resources
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.dll
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\refint\MovingObject.dll
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.pdb
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\MovingObject.genruntimeconfig.cache
+C:\Users\tdrra\NetworkProgramming\MovingObjectServer\obj\Debug\net7.0-windows\ref\MovingObject.dll
