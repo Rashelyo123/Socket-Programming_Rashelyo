@@ -1,0 +1,17 @@
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\bin\Debug\net6.0-windows\BasicAsyncServer.exe
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\bin\Debug\net6.0-windows\BasicAsyncServer.dll.config
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\bin\Debug\net6.0-windows\BasicAsyncServer.deps.json
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\bin\Debug\net6.0-windows\BasicAsyncServer.runtimeconfig.json
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\bin\Debug\net6.0-windows\BasicAsyncServer.dll
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\bin\Debug\net6.0-windows\BasicAsyncServer.pdb
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.csproj.AssemblyReference.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.Properties.Resources.resources
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.ServerForm.resources
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.csproj.GenerateResource.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.dll
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\refint\BasicAsyncServer.dll
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.pdb
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\BasicAsyncServer.genruntimeconfig.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncServer\obj\Debug\net6.0-windows\ref\BasicAsyncServer.dll

@@ -1,0 +1,17 @@
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\bin\Debug\net7.0-windows\BasicAsyncClient.exe
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\bin\Debug\net7.0-windows\BasicAsyncClient.dll.config
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\bin\Debug\net7.0-windows\BasicAsyncClient.deps.json
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\bin\Debug\net7.0-windows\BasicAsyncClient.runtimeconfig.json
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\bin\Debug\net7.0-windows\BasicAsyncClient.dll
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\bin\Debug\net7.0-windows\BasicAsyncClient.pdb
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.csproj.AssemblyReference.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.ClientForm.resources
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.Properties.Resources.resources
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.csproj.GenerateResource.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.csproj.CoreCompileInputs.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.dll
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\refint\BasicAsyncClient.dll
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.pdb
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\BasicAsyncClient.genruntimeconfig.cache
+C:\Users\tdrra\NetworkProgramming\BasicAsyncClient\obj\Debug\net7.0-windows\ref\BasicAsyncClient.dll
